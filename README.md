@@ -5,3 +5,6 @@ no Internet in the working environment can not access the relevant information.
 And because I did not use the GitHub, so I am not enough time. 
 But this is not an excuse to complete the test, I just want to explain the situation; 
 I am very concerned about this job opportunity, this test shows the problem I will correct.
+
+
+Just now I accidentally deleted the local file not uploaded to Git
